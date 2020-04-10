@@ -20,7 +20,6 @@ function renderizarUsuarios(personas) {
     }
 
     divUsuarios.html(html);
-
 }
 
 // Listeners
